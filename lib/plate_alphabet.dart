@@ -43,3 +43,4 @@ export 'src/countries/turkey_alphabets.dart';
 export 'src/countries/venezuela_alphabets.dart';
 export 'src/countries/yemen_alphabets.dart';
 export 'src/countries/zimbabwe_alphabets.dart';
+export 'src/countries/syria_alphabets.dart';
